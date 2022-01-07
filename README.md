@@ -1,6 +1,6 @@
 Custom Repo Link:
 
-`https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json`
+`https://raw.githubusercontent.com/StevieCoops/MyDalamudPlugins/main/pluginmaster.json`
 
 # Currently testing every feature combo for endwalker
 * Some feature combos work fine
