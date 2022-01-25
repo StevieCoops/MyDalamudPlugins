@@ -6,7 +6,7 @@
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "2.1.0.10",
-        "RepoUrl": "https://github.com/StevieCoops/XIVSlothCombo",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
         "LoadPriority": 0,
@@ -20,29 +20,6 @@
         "DownloadLinkTesting": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643074477"
-    },
-    {
-        "Author": "StevieCoops",
-        "Name": "Cards",
-        "Punchline": "Triple Triad.",
-        "Description": "Helps triple triad.",
-        "InternalName": "Cards",
-        "AssemblyVersion": "2.1.0.10",
-        "RepoUrl": "https://github.com/StevieCoops/Cards",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "IconUrl": "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png",
-        "ImageUrls": [
-            "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/Cards/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/Cards/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/Cards/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643074477"
+        "LastUpdated": "1643078581"
     }
 ]
