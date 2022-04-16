@@ -1,18 +1,19 @@
 [
     {
-        "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM",
-        "Name": "XIVSlothCombo",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz, Taurenkey, Augporto, grimgal",
+        "Name": "XIVWumboCombo",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "Features, Fixes & Enhancements for Framework, DRG, DRK, GNB, PLD, SGE, SMN and WAR. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.0.7",
-        "RepoUrl": "https://github.com/StevieCoops/XIVSlothCombo",
+        "AssemblyVersion": "3.0.10.10",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "IconUrl": "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png",
+        "IconUrl": "https://i.imgur.com/UeRukF8.png",
         "ImageUrls": [
-            "https://cdn.discordapp.com/attachments/594230324209123330/905362481671720970/akified.png"
+            "https://i.imgur.com/UeRukF8.png"
         ],
         "DownloadLinkInstall": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "IsHide": false,
@@ -20,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1644295190"
+        "LastUpdated": "1650147658"
     }
 ]
