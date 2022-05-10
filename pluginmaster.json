@@ -4,7 +4,7 @@
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements for Framework, Globals, AST, BLM, DNC, DRG, DRK, GNB, MNK, RDM, SMN and WAR. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Hotfix to remove memory leak. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "3.0.13.4",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/StevieCoops/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1652109988"
+        "LastUpdated": "1652151307"
     }
 ]
